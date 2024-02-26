@@ -3,7 +3,7 @@ Glosförhör
 ----------
 Detta är ett program som hjälper dig att öva glosor 
 
-Ett program för att öva glosor
+Börja öva glosor
 ------------------------------
 
 1. Importera frågor och svar via textfiler
