@@ -13,4 +13,4 @@ Utforma ett .txt-dokument och lägg i src-mappen. Skriv en fråga med tre svarsa
 "Vem är starkast i jungeln?, Gorillan, Zebran, Tigern, Svar: Gorillan, "<br>
 " , "<br>
 "Vem har mest pengar?, Donald Trump, Jeff Bezos, Keyser Szoze, Svar: Keyser Szoze, "<br><br>
-<em>(notera att andra raden ska bestå av = "mellanslag" + "," + "mellanslag" för att filen ska läsas korrekt)</em>
+<em>Notera att filen inte behöver innehålla citationstecken, de är bara här för att förtydliga att det ska finnas med mellanslag. Raden mellan frågorna ska bestå av = ("mellanslag" + "," + "mellanslag") för att filen ska läsas korrekt</em>
